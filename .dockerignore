@@ -2,3 +2,4 @@ connor_bot.log
 README.md
 .vscode
 docker-compose.yml
+.gitignore
