@@ -9,6 +9,8 @@ You can pull the image using the following command:
 
 `$ docker pull connorswislow/connorbot:latest`
 
+Here's the link to the Docker repository: [connorswislow/connorbot](https://hub.docker.com/r/connorswislow/connorbot)
+
 ## Running
 
 Connor Bot has a few environmental variables that need to be set:
